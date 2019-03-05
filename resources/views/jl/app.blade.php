@@ -3,15 +3,15 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="HTML5 Template"/>
-    <meta name="description" content="Profyl - Personal Vcard Resume HTML Template"/>
+    <meta name="keywords" content="Jose Sicajan"/>
+    <meta name="description" content="Jose Sicajan - Software Engineer"/>
     <meta name="author" content="iqonicthemes.in"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
-    <title>Profyl - Personal Vcard Resume HTML Template</title>
+    <title>@yield('title')</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="template/images/favicon.ico"/>
+    <link rel="shortcut icon" href="template/images/ico.png"/>
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;Raleway:400,500,600,700,800"

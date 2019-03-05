@@ -1,5 +1,5 @@
 @extends('jl.app')
-
+@section('title', 'About me')
 @section('content')
     <div class="main-container">
         <!-- About us -->
@@ -11,7 +11,6 @@
                             <!-- BACKGROUND PARTICLES -->
                             <div id="particles-js"></div>
                             <span class="iq-objects-01">
-                                <img class="img-fluid" src="images/01.png" alt="drive">
                             </span>
                         </div>
                     </div>
@@ -21,7 +20,7 @@
                                 <div class="row">
                                     <div class="col-md-4">
                                         <div class="boder-img">
-                                            <img src="http://via.placeholder.com/485x629" class="img-fluid" alt="#">
+                                            <img src="img/jl_main_profile.jpg" class="img-fluid" alt="#">
                                         </div>
                                     </div>
                                     <div class="col-md-8 content-deta">
@@ -29,18 +28,13 @@
                                             <small>Know About Me</small>
                                             <h1 class="display-4 iq-tw-8 iq-font-purple">About Me</h1>
                                         </div>
-                                        <p class="iq-tw-4 iq-mt-10 iq-mb-20">Hello! I’m David.  It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                        <p class="iq-tw-4 iq-mt-10 iq-mb-20">Hello! I’m Jose Sicajan.  I am a Software Engineer, specialized in developing Web Development. I have been developing applications for the past 5 years with Laravel, Codeigniter, Django, PHP and Python.</p>
                                         <ul class="contact-info">
-                                            <li> <span class="iq-tw-6">Name :</span> devio</li>
+                                            <li> <span class="iq-tw-6">Name :</span> Jose Luis Sicajan</li>
                                             <li> <span class="iq-tw-6">Freelance :</span> Available</li>
-                                            <li> <span class="iq-tw-6">Date of birth :</span> 21-09-1993</li>
-                                            <li> <span class="iq-tw-6">Email :</span> <a href="#">devio@website.com</a></li>
-                                            <li> <span class="iq-tw-6">Phone :</span> (123)-456-7890</li>
-                                            <li> <span class="iq-tw-6">Address :</span> Front Street, Mexico. Us</li>
-                                            <li> <span class="iq-tw-6">Nationality :</span> United States</li>
-                                            <li><span class="iq-tw-6">Gender :</span> Male</li>
-                                            <li><span class="iq-tw-6">Marital Status :</span> Single</li>
-                                            <li><span class="iq-tw-6">Work Status :</span> Web Designer</li>
+                                            <li> <span class="iq-tw-6">Email :</span> <a href="mailto:jlsicajan@gmail.com">jlsicajan@gmail.com</a></li>
+                                            <li> <span class="iq-tw-6">Phone :</span> (502) - 4917 7890</li>
+                                            <li><span class="iq-tw-6">Work Status :</span> Software Engineer</li>
                                         </ul>
                                         <a class="button" href="resume.html">resume</a>
                                         <a class="button iq-ml-20" href="contact-us.html">hire me</a>

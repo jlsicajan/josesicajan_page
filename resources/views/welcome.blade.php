@@ -1,4 +1,5 @@
 @extends('jl.app')
+@section('title', 'Jose Sicajan')
 
 @section('content')
     <div class="main-container">
