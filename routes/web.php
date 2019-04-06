@@ -22,3 +22,8 @@ Route::get('/services', 'MainController@services')->name('services');
 Route::get('/portfolio', 'MainController@portfolio')->name('portfolio');
 Route::get('/blog', 'MainController@blog')->name('blog');
 Route::get('/contact', 'MainController@contact')->name('contact');
+
+Route::get('/info', 'NBController@index')->name('nb_index');
+Route::get('/workspace', 'WorkSpaceController@index')->name('workspace');
+
+Route::get('companies', 'CompanyController@index')->name('companies.index');
