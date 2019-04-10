@@ -16,17 +16,23 @@ import CompaniesIndex from './components/companies/CompaniesIndex.vue';
 import CompaniesCreate from './components/companies/CompaniesCreate.vue';
 import CompaniesEdit from './components/companies/CompaniesEdit.vue';
 
+import KnowledgeIndex from './components/knowledges/KnowledgesIndex.vue';
+import KnowledgeEdit from './components/knowledges/KnowledgesEdit.vue';
+import KnowledgeCreate from './components/knowledges/KnowledgesCreate.vue';
+
 const routes = [
-    {
-        path: '/',
-        components: {
-            companiesIndex: CompaniesIndex
-        }
-    },
+    {path: '/companies', component: CompaniesIndex, name: 'companiesIndex'},
     {path: '/companies/create', component: CompaniesCreate, name: 'createCompany'},
     {path: '/companies/edit/:id', component: CompaniesEdit, name: 'editCompany'},
+
+    {path: '/knowledges', component: KnowledgeIndex, name: 'knowledgesIndex'},
+    {path: '/knowledges/create', component: KnowledgeCreate, name: 'createKnowledge'},
+    {path: '/knowledges/edit/:id', component: KnowledgeEdit, name: 'editKnowledge'},
 ];
 
-const router = new VueRouter({routes});
+const router = new VueRouter({
+    mode: 'history',
+    routes: routes
+});
 
 const app = new Vue({router}).$mount('#app');

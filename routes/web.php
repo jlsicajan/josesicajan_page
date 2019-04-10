@@ -26,4 +26,5 @@ Route::get('/contact', 'MainController@contact')->name('contact');
 Route::get('/info', 'NBController@index')->name('nb_index');
 Route::get('/workspace', 'WorkSpaceController@index')->name('workspace');
 
-Route::get('companies', 'CompanyController@index')->name('companies.index');
+Route::get('/knowledges', 'KnowledgeController@index')->name('knowledges.index');
+Route::get('/companies', 'CompanyController@index')->name('companies.index');
