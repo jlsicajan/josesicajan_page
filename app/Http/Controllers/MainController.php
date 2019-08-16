@@ -3,13 +3,16 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 
 class MainController extends Controller
 {
 
-    public function home(){
+    public function home()
+    {
         return view('welcome');
     }
+
     /**
      * Show about me information.
      *
@@ -20,23 +23,35 @@ class MainController extends Controller
         return view('jl.about-me');
     }
 
-    public function resume(){
+    public function resume()
+    {
         return view('jl.resume');
     }
 
-    public function services(){
+    public function services()
+    {
         return view('jl.services');
     }
 
-    public function portfolio(){
+    public function portfolio()
+    {
         return view('jl.portfolio');
     }
 
-    public function blog(){
+    public function blog()
+    {
         return view('jl.blog');
     }
 
-    public function contact(){
+    public function contact()
+    {
         return view('jl.contact');
+    }
+
+    public function download_resume()
+    {
+        $file= public_path(). "/cv/JL.pdf";
+
+        return response()->download($file);
     }
 }

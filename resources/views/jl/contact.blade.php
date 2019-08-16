@@ -1,5 +1,5 @@
 @extends('jl.app')
-
+@section('title', 'Contact')
 @section('content')
     <div class="main-container">
         <!-- About us -->
@@ -16,7 +16,7 @@
                         </div>
                     </div>
                     <div class="col-md-9 main-content align-self-center">
-                        <div id="boxscroll" class="inner-box">
+                        <div id="box_scroll" class="inner-box box_scroll">
                             <div class="iq-plr-40">
                                 <div class="row">
                                     <div class="col-md-12">

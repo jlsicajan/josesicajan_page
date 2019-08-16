@@ -1,5 +1,5 @@
 @extends('jl.app')
-
+@section('title', 'Blog')
 @section('content')
     <div class="main-container">
         <!-- About us -->
@@ -11,12 +11,11 @@
                             <!-- BACKGROUND PARTICLES -->
                             <div id="particles-js"></div>
                             <span class="iq-objects-01">
-                                <img class="img-fluid" src="images/01.png" alt="drive">
                             </span>
                         </div>
                     </div>
                     <div class="col-md-9 main-content align-self-center">
-                        <div id="boxscroll" class="inner-box">
+                        <div id="box_scroll" class="inner-box box_scroll">
                             <div class="iq-plr-40">
                                 <div class="row">
                                     <div class="col-sm-12">

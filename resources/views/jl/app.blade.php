@@ -74,25 +74,25 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mr-auto w-100 justify-content-end">
-                            <li class="nav-item active">
+                            <li class="nav-item @if(Request::is('home')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('home') }}">Home</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item @if(Request::is('about-me')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('about_me') }}">About me</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item @if(Request::is('resume')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('resume') }}">resume</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item @if(Request::is('services')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('services') }}">services</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item @if(Request::is('portfolio')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('portfolio') }}">portfolio</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item @if(Request::is('blog')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('blog') }}">blog</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item @if(Request::is('contact')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('contact') }}">contact</a>
                             </li>
                         </ul>

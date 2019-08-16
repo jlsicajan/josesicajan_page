@@ -12,13 +12,11 @@
                             <!-- BACKGROUND PARTICLES -->
                             <div id="particles-js"></div>
 
-                            <span class="iq-objects-01">
-                                    <img class="img-fluid" src="template/images/01.png" alt="drive">
-                                </span>
+                            <span class="iq-objects-01"></span>
                         </div>
                     </div>
                     <div class="col-md-9 main-content align-self-center">
-                        <div id="boxscroll" class="iq-home">
+                        <div id="box_scroll" class="iq-home box_scroll">
                             <div class="home-deta iq-mt-90">
                                 <div class="row">
                                     <div class="col-md-4">
@@ -29,18 +27,59 @@
                                     <div class="col-md-8 content-deta">
                                         <h2 class="iq-tw-8 ">Hello,<br>I Am Jose Sicajan</h2>
                                         <div id="typer"></div>
-                                        <p class="lead iq-tw-4">I'm a passionate web developer, perfectionist, with a
-                                            high
-                                            sense of responsibility, I like to get into new projects and leave a part of
-                                            myself in them, giving importance to the smallest details. I have worked
-                                            with
-                                            several international clients and local clients in Guatemala and I have
-                                            learned
-                                            that constant communication with the client is a very effective tool in
-                                            achieving objectives. Not only do I like web development, I have also
-                                            learned
-                                            how to create Android Apps and desktop applications.</p>
-                                        <a class="button iq-mt-30" href="about-us.html">Download my CV</a>
+                                        <p class="lead iq-tw-4">
+                                            Over 4 years of working experience, I can say that Web and Mobile development are my passion. I have worked several projects with PHP and Python, I am familiar with several frameworks, but I am always open to working on other platforms as well, because I feel working on interesting and challenging projects is the best way to stay competitive. <br> <br>
+
+                                            <strong>► 5 reasons to hire me:</strong><br>
+                                            - I go the extra mile, do more than is required, exceed expectations<br>
+                                            - I show that I care, I put myself in their shoes<br>
+                                            - I always take the things to the finish line<br>
+                                            - I bring my best self, always sustaining my motivation, I do my best work and practice good habits<br>
+                                            <br>
+                                            <strong>► Specialized in:</strong><br>
+                                            - Python (Django, Odoo, Flask)<br>
+                                            - PHP (Laravel, Codeigniter, Symfony, WordPress)<br>
+                                            - Javascript / jQuery / Vue.js / Node.js<br>
+                                            - HTML<br>
+                                            - Bootstrap / SCSS - SASS / CSS / Flexbox<br>
+                                            - AWS<br>
+                                            - MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
+                                            - NGINX / Apache<br>
+                                            <br>
+                                            <strong>► Project Management:</strong><br>
+                                            - JIRA<br>
+                                            - GIT / GitHub / Bitbucket / GitLab<br>
+                                            - Basecamp<br>
+                                            - Kanban boards / Trello<br>
+                                            <br>
+                                            <strong>► Tools:</strong><br>
+                                            - PhpStorm / PyCharm / DataGrip / WebStorm / NetBeans<br>
+                                            - SSH / SFTP<br>
+                                            - Webpack, ES6<br>
+                                            <br>
+                                            <strong>► APIs:</strong><br>
+                                            - Facebook API<br>
+                                            - Twilio API<br>
+                                            - Google maps API<br>
+                                            - SendGrid / Mailgun<br>
+                                            - Infusionsoft / Memberium<br>
+                                            - Stripe<br>
+                                            <br>
+                                            <strong>► Platforms:</strong><br>
+                                            - Mac OS X<br>
+                                            - Linux<br>
+                                            - Vagrant<br>
+                                            - Oracle VirtualBox<br>
+                                            - AWS EC2 / S3<br>
+                                            <br>
+                                            <strong>► Mobile:</strong><br>
+                                            - Android Java<br><br>
+                                            <br>
+                                            During my years of experience, I have learned that constant communication with the client is a very effective tool in achieving objectives, I will be always available for communication, even after working hours.
+                                            <br>
+                                        </p>
+                                        <a class="button iq-mt-30" href="{{ route('download-resume') }}">Download my CV</a>
+                                        <br><br><br>
                                     </div>
                                 </div>
                             </div>

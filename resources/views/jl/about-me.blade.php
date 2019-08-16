@@ -36,8 +36,8 @@
                                             <li> <span class="iq-tw-6">Phone :</span> (502) - 4917 7890</li>
                                             <li><span class="iq-tw-6">Work Status :</span> Software Engineer</li>
                                         </ul>
-                                        <a class="button" href="resume.html">resume</a>
-                                        <a class="button iq-ml-20" href="contact-us.html">hire me</a>
+                                        <a class="button" href="{{ route('download-resume') }}">resume</a>
+                                        <a class="button iq-ml-20" href="{{ route('contact') }}">hire me</a>
                                     </div>
                                 </div>
                             </div>
