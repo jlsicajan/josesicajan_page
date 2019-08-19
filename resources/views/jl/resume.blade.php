@@ -28,6 +28,15 @@
                                         <ul class="education">
                                             <li><span></span>
                                                 <div>
+                                                    <div class="lead iq-tw-6 iq-font-black">English Fluency</div>
+                                                    <div class="type iq-font-purple">Open English online English school</div>
+                                                    <div class="info">
+                                                    </div>
+                                                </div>
+                                                <span class="number"><span>2019</span> <span>2017</span></span>
+                                            </li>
+                                            <li><span></span>
+                                                <div>
                                                     <div class="lead iq-tw-6 iq-font-black">Science and Systems Engineering</div>
                                                     <div class="type iq-font-purple">Universidad Mariano Gálvez</div>
                                                     <div class="info">
@@ -55,6 +64,35 @@
                                     <div class="col-md-6">
                                         <h3 class="title iq-tw-8">Experience</h3>
                                         <ul class="education">
+                                            <li><span></span>
+                                                <div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Software Engineer Lead</div>
+                                                    <div class="type iq-font-purple">Bizzoom Marketing Australia Adelaide</div>
+                                                    <div class="info">
+                                                        <br>
+                                                        Worked on big real estate project. <br>
+                                                        Developed a system text to update the texts in all the page <br>
+                                                        <br>
+                                                        <strong>Technologies:</strong> <br>
+                                                        - Laravel php framework <br>
+                                                        - Javascript / jQuery <br>
+                                                        - HTML <br>
+                                                        - Bootstrap / SASS / CSS <br>
+                                                        - Mysql / Redis <br>
+
+                                                        <strong>Project Management:</strong><br>
+                                                        - Trello <br>
+
+                                                        <strong>APIs:</strong><br>
+                                                        - Stripe API <br>
+                                                        - Active Campaign API <br>
+
+                                                        <strong>Platforms:</strong> <br>
+                                                        - Linux <br>
+                                                    </div>
+                                                </div>
+                                                <span class="number"><span>2019</span> <span>2019</span></span>
+                                            </li>
                                             <li><span></span>
                                                 <div>
                                                     <div class="lead iq-tw-6 iq-font-black">Software Engineer </div>
@@ -124,10 +162,29 @@
                                             </li>
                                             <li><span></span>
                                                 <div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Web Developer</div>
+                                                    <div class="type iq-font-purple">Fire station Chimaltenango Guatemala</div>
+                                                    <div class="info">
+                                                        - I developed a system for cost management for the fire station in my town. <br>
+                                                        - Each fireman enters records from his cell phone, the system has been useful for the last 3 years.<br>
+                                                        - We are looking to implement it in other stations in Guatemala.<br>
+                                                    </div>
+                                                </div>
+                                                <span class="number"><span>2019</span> <span>2017</span></span>
+                                            </li>
+                                            <li><span></span>
+                                                <div>
                                                     <div class="lead iq-tw-6 iq-font-black">Web Developer Intern</div>
                                                     <div class="type iq-font-purple">Ministry of Energy and Mines Guatemala</div>
                                                     <div class="type iq-font-purple">Axxis it Guatemala</div>
                                                     <div class="info">
+                                                        - Implementation of 2 web pages in PHP with Laravel 5 framework <br>
+                                                        - Creation of graphics with highcharts in PHP Laravel projects <br>
+
+                                                        - Handling MySQL, Phpmyadmin, and Apache Tomcat on Windows <br>
+
+                                                        - Project creation for inventory control of computer equipment, which is used for the entire company that had several departments. Develop the desktop application with the following technologies: <br>
+                                                        .NET MVVM and SQLSERVER<br>
                                                     </div>
                                                 </div>
                                                 <span class="number"><span>2015</span> <span>2014</span></span>
