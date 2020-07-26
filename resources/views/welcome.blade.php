@@ -28,7 +28,7 @@
                                         <h2 class="iq-tw-8 ">Hello,<br>I Am Jose Sicajan</h2>
                                         <div id="typer"></div>
                                         <p class="lead iq-tw-4">
-                                            Over 4 years of working experience, I can say that Web and Mobile development are my passion. I have worked several projects with PHP and Python, I am familiar with several frameworks, but I am always open to working on other platforms as well, because I feel working on interesting and challenging projects is the best way to stay competitive. <br> <br>
+                                            Over 5 years of working experience, I can say that Software Engineering is my passion. I have worked several projects in different companies and local businesses, I have strong Software Engineering foundations which allows me to adapt quickly to any framework, language, project or tool, I feel that working on interesting and challenging projects is the best way to stay competitive. <br> <br>
 
                                             <strong>► 5 reasons to hire me:</strong><br>
                                             - I go the extra mile, do more than is required, exceed expectations<br>
@@ -45,6 +45,11 @@
                                             - AWS<br>
                                             - MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
                                             - NGINX / Apache<br>
+                                            <br>
+                                            <strong>► ETL (Extract Transform Load Data):</strong><br>
+                                            - GeoKettle<br>
+                                            - FME<br>
+                                            <br>
                                             <br>
                                             <strong>► Project Management:</strong><br>
                                             - JIRA<br>
@@ -69,11 +74,14 @@
                                             - Mac OS X<br>
                                             - Linux<br>
                                             - Vagrant<br>
+                                            - Docker<br>
                                             - Oracle VirtualBox<br>
                                             - AWS EC2 / S3<br>
+                                            - GCP<br>
                                             <br>
                                             <strong>► Mobile:</strong><br>
-                                            - Android Java<br><br>
+                                            - Android Java<br>
+                                            - Flutter Development<br><br>
                                             <br>
                                             During my years of experience, I have learned that constant communication with the client is a very effective tool in achieving objectives, I will be always available for communication, even after working hours.
                                             <br>
