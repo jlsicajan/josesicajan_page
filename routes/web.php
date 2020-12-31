@@ -23,7 +23,7 @@ Route::get('/', function () {
 Route::get('/about-me', 'MainController@aboutme')->name('about_me');
 Route::get('/resume', 'MainController@resume')->name('resume');
 Route::get('/services', 'MainController@services')->name('services');
-Route::get('/portfolio', 'MainController@portfolio')->name('portfolio');
+Route::get('/portfolio', 'MainController@home')->name('portfolio');
 Route::get('/blog', 'MainController@blog')->name('blog');
 Route::get('/contact', 'MainController@contact')->name('contact');
 Route::get('/download-resume', 'MainController@download_resume')->name('download-resume');
