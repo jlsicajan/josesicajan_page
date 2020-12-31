@@ -50,8 +50,7 @@ class MainController extends Controller
 
     public function download_resume()
     {
-        $file= public_path(). "/cv/JL.pdf";
+        print_r('hello');die();
 
-        return response()->download($file);
     }
 }

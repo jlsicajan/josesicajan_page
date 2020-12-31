@@ -83,18 +83,18 @@
                             <li class="nav-item @if(Request::is('resume')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('resume') }}">resume</a>
                             </li>
-                            <li class="nav-item @if(Request::is('services')) active @endif">
+                            <!-- <li class="nav-item @if(Request::is('services')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('services') }}">services</a>
-                            </li>
-                            <li class="nav-item @if(Request::is('portfolio')) active @endif">
-                                <a class="nav-link" data-type="page-transition" href="{{ route('portfolio') }}">portfolio</a>
-                            </li>
-                            <li class="nav-item @if(Request::is('blog')) active @endif">
+                            </li> -->
+{{--                            <li class="nav-item @if(Request::is('portfolio')) active @endif">--}}
+{{--                                <a class="nav-link" data-type="page-transition" href="{{ route('portfolio') }}">portfolio</a>--}}
+{{--                            </li>--}}
+                            <!-- <li class="nav-item @if(Request::is('blog')) active @endif">
                                 <a class="nav-link" data-type="page-transition" href="{{ route('blog') }}">blog</a>
-                            </li>
-                            <li class="nav-item @if(Request::is('contact')) active @endif">
-                                <a class="nav-link" data-type="page-transition" href="{{ route('contact') }}">contact</a>
-                            </li>
+                            </li> -->
+{{--                            <li class="nav-item @if(Request::is('contact')) active @endif">--}}
+{{--                                <a class="nav-link" data-type="page-transition" href="{{ route('contact') }}">contact</a>--}}
+{{--                            </li>--}}
                         </ul>
                     </div>
                 </div>

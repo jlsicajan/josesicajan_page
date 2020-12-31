@@ -27,8 +27,8 @@
                                     <div class="col-md-12">
                                         <div class="isotope-filters">
                                             <button data-filter="" class="active"> View All</button>
-                                            <button data-filter=".web-design"> Web Design</button>
-                                            <button data-filter=".graphic-design">Graphic Design</button>
+                                            <button data-filter=".web-design"> Web Development</button>
+                                            <button data-filter=".graphic-design">Scripts</button>
                                             <button data-filter=".website-templates">Website Templates</button>
                                         </div>
                                     </div>
@@ -38,8 +38,8 @@
                                                 <div class="portfolio-item clearfix">
                                                     <img src="http://via.placeholder.com/538x380" alt="img04">
                                                     <div class="overlay">
-                                                        <h4>work item one</h4>
-                                                        <span>jones</span>
+                                                        <h4>Time Planner</h4>
+                                                        <span></span>
                                                         <div class="item-link">
                                                             <a class="popup-img"
                                                                href="http://via.placeholder.com/538x380"><span

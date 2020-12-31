@@ -28,6 +28,15 @@
                                         <ul class="education">
                                             <li><span></span>
                                                 <div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Astronomy and Astrophysics</div>
+                                                    <div class="type iq-font-purple">Galileo University - Guatemala</div>
+                                                    <div class="info">
+                                                    </div>
+                                                </div>
+                                                <span class="number"><span>2022</span> <span>2020</span></span>
+                                            </li>
+                                            <li><span></span>
+                                                <div>
                                                     <div class="lead iq-tw-6 iq-font-black">English Fluency</div>
                                                     <div class="type iq-font-purple">Open English online English school</div>
                                                     <div class="info">
@@ -64,6 +73,51 @@
                                     <div class="col-md-6">
                                         <h3 class="title iq-tw-8">Experience</h3>
                                         <ul class="education">
+                                        <li><span></span>
+                                                <div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Software Engineer</div>
+                                                    <div class="type iq-font-purple">Telus International</div>
+                                                    <div class="info">
+                                                        <br>
+                                                        Worked on a Web and Mobile GIS Platform. <br>
+                                                        that supports critical operational processes with groups <br>
+                                                        such as cable plant locates, field tech and construction. <br>
+                                                        Designed to work online and offline for thousands of users, provides <br>
+                                                        a detailed view of the above and below ground network. <br>
+                                                        <br>
+                                                        <strong>Technologies:</strong> <br>
+                                                        - Python & Javascript development <br>
+                                                        - Linux System Administrator - jobs to run at certain time <br>
+                                                        - Monitoring servers <br>
+                                                        - Script to backup GeoServer and export backup to another server in case of some emergency <br>
+                                                        - Extract data from postgresql to sqlite for electro desktop application <br>
+                                                        - Deployment documentation and user guides <br>
+                                                        - ETL’s with GeoKettle and FME <br>
+                                                        - SOAP UI to test SOAP requests <br>
+                                                        - Oracle databases, PSQL, MySql 8 and Microsoft SQL Server <br>
+                                                        - BackBone JS <br>
+                                                        - GeoServer <br>
+                                                        - Create tickets and measure them by asking different team members and business people <br>
+                                                        - Interactions with Docker for GCP <br>
+
+
+                                                        <strong>Project Management:</strong><br>
+                                                        - JIRA <br>
+                                                        - SCRUM <br>
+                                                        - KANBAN <br>
+
+                                                        <strong>APIs:</strong><br>
+                                                        - GeoServer API <br>
+                                                        - Internal APIs <br>
+
+                                                        <strong>Platforms:</strong> <br>
+                                                        - Linux <br>
+                                                        - Google Cloud Platform <br>
+                                                        - Microsoft <br>
+                                                    </div>
+                                                </div>
+                                                <span class="number"><span>2020</span> <span>2019</span></span>
+                                            </li>
                                             <li><span></span>
                                                 <div>
                                                     <div class="lead iq-tw-6 iq-font-black">Software Engineer Lead</div>
@@ -199,10 +253,6 @@
                                         <h3 class="title iq-tw-8 iq-mt-0">My Interests</h3>
                                         <ul class="interests">
                                             <li>
-                                                <i class="fa fa-music" aria-hidden="true"></i>
-                                                <h6>Guitar</h6>
-                                            </li>
-                                            <li>
                                                 <i class="fa fa-book" aria-hidden="true"></i>
                                                 <h6>Read Books</h6>
                                             </li>
@@ -219,8 +269,12 @@
                                                 <h6>Linux</h6>
                                             </li>
                                             <li>
-                                                <i class="fa fa-calendar" aria-hidden="true"></i>
-                                                <h6>Tech Events</h6>
+                                            <i class="fa fa-music" aria-hidden="true"></i>
+                                                <h6>Piano</h6>
+                                            </li>
+                                            <li>
+                                                <i class="fa fa-rocket" aria-hidden="true"></i>
+                                                <h6>Astronomy and Astrophysics</h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -235,10 +289,10 @@
                                         </div>
                                         <div class="iq-progress-bar-linear">
                                             <p class="iq-progress-bar-text iq-font-black">English
-                                                <span>80/100</span>
+                                                <span>90/100</span>
                                             </p>
                                             <div class="iq-progress-bar">
-                                                <span style="width: 80% !important;" data-percent="80"></span>
+                                                <span style="width: 90% !important;" data-percent="90"></span>
                                             </div>
                                         </div>
                                         <div class="iq-progress-bar-linear iq-font-black">
@@ -256,6 +310,14 @@
                                             </p>
                                             <div class="iq-progress-bar">
                                                 <span style="width: 100% !important;" data-percent="100"></span>
+                                            </div>
+                                        </div>
+                                        <div class="iq-progress-bar-linear">
+                                            <p class="iq-progress-bar-text iq-font-black">French
+                                                <span>30/100</span>
+                                            </p>
+                                            <div class="iq-progress-bar">
+                                                <span style="width: 30% !important;" data-percent="30"></span>
                                             </div>
                                         </div>
                                     </div>
