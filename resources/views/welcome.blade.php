@@ -28,7 +28,7 @@
                                         <h2 class="iq-tw-8 ">Hello,<br>I Am Jose Sicajan</h2>
                                         <div id="typer"></div>
                                         <p class="lead iq-tw-4">
-                                            Over 5 years of working experience, I can say that Software Engineering is my passion. I have worked several projects in different companies and local businesses, I have strong Software Engineering foundations which allows me to adapt quickly to any framework, language, project or tool, I feel that working on interesting and challenging projects is the best way to stay competitive. <br> <br>
+                                            Over 6 years of working experience, I can say that Software Engineering is my passion. I have worked several projects in different companies and local businesses, I have strong Software Engineering foundations which allows me to adapt quickly to any framework, language, project or tool, I feel that working on interesting and challenging projects is the best way to stay competitive. <br> <br>
 
                                             <strong>► 5 reasons to hire me:</strong><br>
                                             - I go the extra mile, do more than is required, exceed expectations<br>

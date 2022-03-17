@@ -116,12 +116,12 @@
                                                         - Microsoft <br>
                                                     </div>
                                                 </div>
-                                                <span class="number"><span>2020</span> <span>2019</span></span>
+                                                <span class="number"><span>2022</span> <span>2019</span></span>
                                             </li>
                                             <li><span></span>
                                                 <div>
                                                     <div class="lead iq-tw-6 iq-font-black">Software Engineer Lead</div>
-                                                    <div class="type iq-font-purple">Bizzoom Marketing Australia Adelaide</div>
+                                                    <div class="type iq-font-purple">Bizzoom Marketing (Upwork Freelancer)</div>
                                                     <div class="info">
                                                         <br>
                                                         Worked on big real estate project. <br>
@@ -150,7 +150,7 @@
                                             <li><span></span>
                                                 <div>
                                                     <div class="lead iq-tw-6 iq-font-black">Software Engineer </div>
-                                                    <div class="type iq-font-purple">Vital Interaction Austin Texas</div>
+                                                    <div class="type iq-font-purple">Vital Interaction Guatemala</div>
                                                     <div class="info">
                                                         <br>
                                                         Worked on big health care project. <br>
