@@ -33,7 +33,7 @@
                                                     <div class="info">
                                                     </div>
                                                 </div>
-                                                <span class="number"><span>2022</span> <span>2020</span></span>
+                                                <span class="number"><span>2021</span> <span>2020</span></span>
                                             </li>
                                             <li><span></span>
                                                 <div>
@@ -75,8 +75,8 @@
                                         <ul class="education">
                                         <li><span></span>
                                                 <div>
-                                                    <div class="lead iq-tw-6 iq-font-black">Software Engineer</div>
-                                                    <div class="type iq-font-purple">Telus International</div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Intermediate Application Developer IIC</div>
+                                                    <div class="type iq-font-purple">Transactel Powered by Telus</div>
                                                     <div class="info">
                                                         <br>
                                                         Worked on a Web and Mobile GIS Platform. <br>
@@ -120,37 +120,8 @@
                                             </li>
                                             <li><span></span>
                                                 <div>
-                                                    <div class="lead iq-tw-6 iq-font-black">Software Engineer Lead</div>
-                                                    <div class="type iq-font-purple">Bizzoom Marketing (Upwork Freelancer)</div>
-                                                    <div class="info">
-                                                        <br>
-                                                        Worked on big real estate project. <br>
-                                                        Developed a system text to update the texts in all the page <br>
-                                                        <br>
-                                                        <strong>Technologies:</strong> <br>
-                                                        - Laravel php framework <br>
-                                                        - Javascript / jQuery <br>
-                                                        - HTML <br>
-                                                        - Bootstrap / SASS / CSS <br>
-                                                        - Mysql / Redis <br>
-
-                                                        <strong>Project Management:</strong><br>
-                                                        - Trello <br>
-
-                                                        <strong>APIs:</strong><br>
-                                                        - Stripe API <br>
-                                                        - Active Campaign API <br>
-
-                                                        <strong>Platforms:</strong> <br>
-                                                        - Linux <br>
-                                                    </div>
-                                                </div>
-                                                <span class="number"><span>2019</span> <span>2019</span></span>
-                                            </li>
-                                            <li><span></span>
-                                                <div>
-                                                    <div class="lead iq-tw-6 iq-font-black">Software Engineer </div>
-                                                    <div class="type iq-font-purple">Vital Interaction Guatemala</div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Jr Software Developer </div>
+                                                    <div class="type iq-font-purple">Vital Corp S.A. Guatemala</div>
                                                     <div class="info">
                                                         <br>
                                                         Worked on big health care project. <br>
@@ -182,7 +153,7 @@
                                             </li>
                                             <li><span></span>
                                                 <div>
-                                                    <div class="lead iq-tw-6 iq-font-black">Web developer and DevOp</div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Web developer</div>
                                                     <div class="type iq-font-purple">LionMane Software Guatemala</div>
                                                     <div class="info">
                                                         <br>
@@ -202,7 +173,7 @@
                                             </li>
                                             <li><span></span>
                                                 <div>
-                                                    <div class="lead iq-tw-6 iq-font-black">Web Developer</div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Junior Developer</div>
                                                     <div class="type iq-font-purple">Velfasa Guatemala</div>
                                                     <div class="info"><br>
                                                         - Manage financial projects with PHP frameworks (Symfony 2.8 and Laravel) <br>
@@ -216,7 +187,7 @@
                                             </li>
                                             <li><span></span>
                                                 <div>
-                                                    <div class="lead iq-tw-6 iq-font-black">Web Developer</div>
+                                                    <div class="lead iq-tw-6 iq-font-black">Web Developer Intern</div>
                                                     <div class="type iq-font-purple">Fire station Chimaltenango Guatemala</div>
                                                     <div class="info">
                                                         - I developed a system for cost management for the fire station in my town. <br>
