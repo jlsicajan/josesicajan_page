@@ -38,9 +38,7 @@
                                                     <li><i class="ti-marker-alt"></i>
                                                         <p>jlsicajan@gmail.com </p></li>
                                                     <li><i class="ti-mobile"></i>
-                                                        <p>(502) - 4917 7890 </p></li>
-                                                    <li><i class="ti-mobile"></i>
-                                                        <p>(502) - 7756 5645 </p></li>
+                                                        <p>(502) - 3991 2115 </p></li>
                                                 </ul>
                                             </div>
                                         </div>

@@ -20,7 +20,7 @@
                                 <div class="row">
                                     <div class="col-md-4">
                                         <div class="boder-img">
-                                            <img src="img/jl_main_profile.jpg" class="img-fluid" alt="#">
+                                            <img src="img/jl_second_profile.jpg" class="img-fluid" alt="#">
                                         </div>
                                     </div>
                                     <div class="col-md-8 content-deta">
@@ -28,13 +28,13 @@
                                             <small>Know About Me</small>
                                             <h1 class="display-4 iq-tw-8 iq-font-purple">About Me</h1>
                                         </div>
-                                        <p class="iq-tw-4 iq-mt-10 iq-mb-20">Hello! I’m Jose Sicajan.  I am a Software Engineer, specialized in developing Web Development. I have been developing applications for the past 5 years with Laravel, Codeigniter, Django, PHP and Python.</p>
                                         <ul class="contact-info">
-                                            <li> <span class="iq-tw-6">Name :</span> Jose Luis Sicajan</li>
-                                            <li> <span class="iq-tw-6">Freelance :</span> Available</li>
-                                            <li> <span class="iq-tw-6">Email :</span> <a href="mailto:jlsicajan@gmail.com">jlsicajan@gmail.com</a></li>
-                                            <li> <span class="iq-tw-6">Phone :</span> (502) - 4917 7890</li>
-                                            <li><span class="iq-tw-6">Work Status :</span> Software Engineer</li>
+                                            <li><span class="iq-tw-6">Name :</span> Jose Luis Sicajan</li>
+                                            <li><span class="iq-tw-6">Freelance :</span> Available</li>
+                                            <li><span class="iq-tw-6">Email :</span> <a
+                                                    href="mailto:jlsicajan@gmail.com">jlsicajan@gmail.com</a></li>
+                                            <li><span class="iq-tw-6">Phone :</span> (502) - 3991 2115</li>
+                                            <li><span class="iq-tw-6">Work Status :</span> Full Time</li>
                                         </ul>
                                         <a class="button" href="{{ route('download-resume') }}">resume</a>
                                         <a class="button iq-ml-20" href="{{ route('contact') }}">hire me</a>

@@ -21,35 +21,44 @@
                                 <div class="row">
                                     <div class="col-md-4">
                                         <div class="boder-img">
-                                            <img src="img/jl_main_profile.jpg" class="img-fluid" alt="#">
+                                            <img src="img/jl_second_profile.jpg" class="img-fluid" alt="#">
                                         </div>
                                     </div>
                                     <div class="col-md-8 content-deta">
                                         <h2 class="iq-tw-8 ">Hello,<br>I Am Jose Sicajan</h2>
                                         <div id="typer"></div>
                                         <p class="lead iq-tw-4">
-                                            Over 6 years of working experience, I can say that Software Engineering is my passion. I have worked several projects in different companies and local businesses, I have strong Software Engineering foundations which allows me to adapt quickly to any framework, language, project or tool, I feel that working on interesting and challenging projects is the best way to stay competitive. <br> <br>
-
-                                            <strong>► 5 reasons to hire me:</strong><br>
-                                            - I go the extra mile, do more than is required, exceed expectations<br>
-                                            - I show that I care, I put myself in their shoes<br>
-                                            - I always take the things to the finish line<br>
-                                            - I bring my best self, always sustaining my motivation, I do my best work and practice good habits<br>
+                                            With a solid background of eight years of experience, I have adeptly
+                                            developed and deployed numerous challenging applications spanning various
+                                            industries, including finance, healthcare, real estate, wine, translation,
+                                            and GIS. My proficiency extends across Software Engineering, allowing me to
+                                            seamlessly adapt to diverse frameworks, languages, projects, and tools. I am
+                                            deeply passionate about my craft and thrive on engaging with intriguing and
+                                            complex projects to continually enhance my skills and remain competitive in
+                                            the field.
+                                            <br>
+                                            <br>
+                                            <hr>
                                             <br>
                                             <strong>► Specialized in:</strong><br>
-                                            - Python (Django, Odoo, Flask)<br>
-                                            - PHP (Laravel, Codeigniter, Symfony, WordPress)<br>
-                                            - Javascript / jQuery / Vue.js / Node.js<br>
-                                            - HTML<br>
-                                            - Bootstrap / SCSS - SASS / CSS / Flexbox<br>
-                                            - AWS<br>
-                                            - MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
-                                            - NGINX / Apache<br>
+                                            - Linux/Unix systems including Kali, Parrot OS, OpenSUSE, Ubuntu, as well as
+                                            Windows Servers<br>
+                                            - Python frameworks such as Django, Pyramid, Odoo, and Flask<br>
+                                            - PHP frameworks including Laravel, Codeigniter, Symfony, and WordPress<br>
+                                            - Cloud services on AWS and GCP<br>
+                                            - Containerization technologies like Docker, Kubernetes, Helm, and
+                                            Minikube<br>
+                                            - Frontend and backend development with JavaScript, React, Vue.js, and
+                                            Node.js<br>
+                                            - Database management with MySQL, PostgreSQL, MongoDB, SQLite, and Redis<br>
+                                            - Web server configuration and optimization with NGINX and Apache<br>
                                             <br>
                                             <strong>► ETL (Extract Transform Load Data):</strong><br>
-                                            - GeoKettle<br>
-                                            - FME<br>
-                                            <br>
+                                            - GeoKettle for geospatial data processing<br>
+                                            - FME (Feature Manipulation Engine) for data integration and
+                                            transformation<br>
+                                            - GCP Cloud Functions for serverless ETL workflows<br>
+                                            - Custom Python scripts for flexible and efficient data processing<br>
                                             <br>
                                             <strong>► Project Management:</strong><br>
                                             - JIRA<br>
@@ -57,36 +66,30 @@
                                             - Basecamp<br>
                                             - Kanban boards / Trello<br>
                                             <br>
-                                            <strong>► Tools:</strong><br>
+                                            <strong>► Favourite IDEs:</strong><br>
                                             - PhpStorm / PyCharm / DataGrip / WebStorm / NetBeans<br>
-                                            - SSH / SFTP<br>
-                                            - Webpack, ES6<br>
                                             <br>
                                             <strong>► APIs:</strong><br>
                                             - Facebook API<br>
                                             - Twilio API<br>
-                                            - Google maps API<br>
+                                            - Google Maps API<br>
                                             - SendGrid / Mailgun<br>
                                             - Infusionsoft / Memberium<br>
                                             - Stripe<br>
                                             <br>
-                                            <strong>► Platforms:</strong><br>
-                                            - Mac OS X<br>
-                                            - Linux<br>
-                                            - Vagrant<br>
-                                            - Docker<br>
-                                            - Oracle VirtualBox<br>
-                                            - AWS EC2 / S3<br>
-                                            - GCP<br>
-                                            <br>
                                             <strong>► Mobile:</strong><br>
                                             - Android Java<br>
                                             - Flutter Development<br><br>
+                                            <hr>
                                             <br>
-                                            During my years of experience, I have learned that constant communication with the client is a very effective tool in achieving objectives, I will be always available for communication, even after working hours.
-                                            <br>
+                                            Throughout my extensive experience, I've recognized that maintaining open
+                                            lines of communication with clients is pivotal for project success. I commit
+                                            to being readily available for communication, even beyond standard working
+                                            hours, to ensure seamless collaboration and alignment toward achieving
+                                            objectives. <br>
                                         </p>
-                                        <a class="button iq-mt-30" href="{{ route('download-resume') }}">Download my CV</a>
+                                        <a class="button iq-mt-30" href="{{ route('download-resume') }}">Download my
+                                            CV</a>
                                         <br><br><br>
                                     </div>
                                 </div>
