@@ -40,8 +40,8 @@ RUN apt install -y nodejs
 RUN apt install -y nginx
 RUN echo "\
     server {\n\
-        listen 80;\n\
-        listen [::]:80;\n\
+        listen 8088;\n\
+        listen [::]:8088;\n\
         root /var/www/html/public;\n\
         add_header X-Frame-Options \"SAMEORIGIN\";\n\
         add_header X-Content-Type-Options \"nosniff\";\n\
@@ -85,6 +85,6 @@ RUN composer install
 RUN cp .env.example .env
 RUN php artisan key:generate
 
-EXPOSE 80
+EXPOSE 8088
 
 CMD ["sh", "/start.sh"]

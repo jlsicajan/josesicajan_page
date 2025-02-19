@@ -33,11 +33,10 @@
                                             <li><span class="iq-tw-6">Freelance :</span> Available</li>
                                             <li><span class="iq-tw-6">Email :</span> <a
                                                     href="mailto:jlsicajan@gmail.com">jlsicajan@gmail.com</a></li>
-                                            <li><span class="iq-tw-6">Phone :</span> (502) - 3991 2115</li>
+                                            <li><span class="iq-tw-6">Phone :</span> (502) - 5544 0612</li>
                                             <li><span class="iq-tw-6">Work Status :</span> Full Time</li>
                                         </ul>
                                         <a class="button" href="{{ route('download-resume') }}">resume</a>
-                                        <a class="button iq-ml-20" href="{{ route('contact') }}">hire me</a>
                                     </div>
                                 </div>
                             </div>
